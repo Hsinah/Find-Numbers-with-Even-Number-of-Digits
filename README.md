@@ -25,8 +25,8 @@ Given an array of integers `nums`, return **how many** of them contain an **even
 - If digit count is even, increment the counter
 - Return the final count
 
-## Compile the Java File:
-```javac Solution.java
+### ✅ Step 1: Compile the Java File
+```bash
+javac Solution.java
 
-## Run the Program 
-```java Solution
+
