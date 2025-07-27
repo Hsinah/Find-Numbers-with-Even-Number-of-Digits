@@ -26,7 +26,7 @@ Given an array of integers `nums`, return **how many** of them contain an **even
 - Return the final count
 
 ## Compile the Java File:
-```javac Solution.java```
+```javac Solution.java
 
 ## Run the Program 
-```java Solution```
+```java Solution
